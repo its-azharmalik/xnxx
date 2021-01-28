@@ -63,6 +63,7 @@ body {
 .rectangle2 {
   height: 100vh;
   background-image: url("images/pexels-josh-hild-4256852\ 1.svg");
+  background-size: cover;
   padding-left: 100px;
   padding-top: 50px;
   color: #ffffff;
